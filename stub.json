@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"Create a FastAPI endpoint to check if a string is a palindrome. The endpoint should accept a string and return true if it's a palindrome and false otherwise.","md5":"75c3bcc828eace51dbef3bc5e738bf8e"}]}
